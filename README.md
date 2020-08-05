@@ -25,16 +25,12 @@
 <div align="center">
   
 # 🌱 Project objective
----
 
 O Proffy nasceu de uma iniciativa de educadores para a comunidade de desenvolvedores, como forma de proporcionar a criação de um MVP com a stack NodeJS, React e React Native ([saiba mais](https://nextlevelweek.com/)). Esse projeto consiste em uma plataforma que liga alunos a professores particulares de diversas matérias, utilizando um sistema de crud com arquitetura de rest api no backend e com frontend's web e mobile.
 
 ---
-</div>
 
 ## 🚀 Technologies
-
-Technologies used to develop this application
 
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
@@ -48,6 +44,7 @@ Technologies used to develop this application
 <!-- - [React Navigation](https://reactnavigation.org/) -->
 <!-- - [React Icons](https://react-icons.netlify.com/#/) -->
 
+</div>
 ## 💻 Getting started
 
 ### Requirements
