@@ -37,7 +37,7 @@ function TeacherForm() {
       cost: Number(cost),
       schedule: scheduleItems
     }).then(() => {
-      alert("Cadastro tealizado com sucesso")
+      alert("Cadastro realizado com sucesso")
 
       history.push('/')
     }).catch(() => {
